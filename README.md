@@ -1,2 +1,0 @@
-# MyApplication
-Android first application
